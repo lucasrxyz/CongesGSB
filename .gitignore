@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+packages/
+# Ignore package restore folders
+*.nuget/
+
+# Windows image file cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Build log
+*.log
+
+# Others
+*.exe
+*.dll
+*.pdb
+*.cache
+*.config
+
+# Publish output
+publish/
